@@ -1,0 +1,145 @@
+.header {
+  border: 1px solid #000;
+  justify-content: space-between;
+  align-items: center;
+  width: 99%;
+  padding-inline: 10px;
+  display: flex;
+}
+
+.logo {
+  width: 150px;
+}
+
+.logo img {
+  width: 100%;
+}
+
+.nav-links {
+  width: 400px;
+  padding-right: 8px;
+  font-size: 18px;
+}
+
+.nav-links ul li {
+  color: #000;
+  margin-right: 20px;
+  list-style: none;
+}
+
+.nav-links button {
+  color: #fff;
+  background-color: #ff4500;
+  padding: 8px;
+}
+
+.flex {
+  align-items: center;
+  display: flex;
+}
+
+.body {
+  margin-top: 50px;
+  padding-inline: 50px;
+}
+
+.filter {
+  justify-content: space-between;
+  align-items: center;
+  gap: 35%;
+  padding-inline: 40px;
+  display: flex;
+}
+
+.top button, .search button {
+  color: #fff;
+  background-color: #ff4500;
+  padding: 8px;
+}
+
+.cart-container {
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 10px;
+  margin-right: 5px;
+  display: flex;
+}
+
+.card {
+  background-color: #e4dada;
+  width: 200px;
+  margin-top: 22px;
+  margin-right: 6px;
+  overflow: hidden;
+}
+
+.shimmer-container {
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 10px;
+  margin-right: 5px;
+  display: flex;
+}
+
+.shimmer-card {
+  background-color: gray;
+  width: 200px;
+  margin-top: 22px;
+  margin-right: 6px;
+}
+
+.image {
+  text-align: center;
+  width: 190px;
+  height: 100px;
+  padding: 3px;
+}
+
+.image img {
+  width: 100%;
+  height: 100%;
+}
+
+.text {
+  text-align: center;
+  line-height: 8px;
+}
+
+.text h4 {
+  width: 98%;
+  line-height: 15px;
+}
+
+.text h3 {
+  line-height: 15px;
+}
+
+.search input {
+  width: 240px;
+  padding: 7px;
+}
+
+.error {
+  margin: auto;
+}
+
+.menu {
+  border: 1px solid #000;
+  justify-content: space-between;
+  align-items: center;
+  width: 800px;
+  margin: 30px auto 50px;
+  padding-inline: 60px;
+  display: flex;
+}
+
+.menu-list {
+  width: 800px;
+  margin: 30px auto 50px;
+  padding-inline: 60px;
+  box-shadow: 2px 4px 3px #645656;
+}
+
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
